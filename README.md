@@ -25,4 +25,4 @@ print('고양이는 너무 귀여워요!!!')
     + Issue 1-1
         - Issue 1-1-1
     
-[공용플랫폼.pptx](https://github.com/deMerui/test_project/files/5412727/default.pptx)
+
